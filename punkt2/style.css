@@ -1,0 +1,157 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 2048px;
+  position: relative;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  top: 119px;
+  left: 148px;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .p {
+  width: 572px;
+  top: 260px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-2 {
+  width: 572px;
+  top: 462px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  width: 572px;
+  top: 880px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  width: 572px;
+  top: 1190px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-5 {
+  width: 1005px;
+  top: 1500px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image {
+  position: absolute;
+  width: 583px;
+  height: 290px;
+  top: 1063px;
+  left: 148px;
+}
+
+.frame .img {
+  position: absolute;
+  width: 583px;
+  height: 522px;
+  top: 1375px;
+  left: 148px;
+  object-fit: cover;
+}
+
+.frame .image-2 {
+  position: absolute;
+  width: 583px;
+  height: 780px;
+  top: 261px;
+  left: 148px;
+  object-fit: cover;
+}
+
+.frame .text-wrapper-6 {
+  top: 50px;
+  left: 148px;
+  color: #979797;
+  font-size: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image-3 {
+  position: absolute;
+  width: 409px;
+  height: 426px;
+  top: 620px;
+  left: 1364px;
+  object-fit: cover;
+}
+
+.frame .view {
+  position: absolute;
+  width: 409px;
+  height: 366px;
+  top: 1068px;
+  left: 1364px;
+}
+
+.frame .mask-group {
+  position: absolute;
+  width: 409px;
+  height: 337px;
+  top: 261px;
+  left: 1364px;
+}

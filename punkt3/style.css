@@ -1,0 +1,132 @@
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  width: 1920px;
+  height: 1869px;
+  position: relative;
+}
+
+.frame .text-wrapper {
+  top: 119px;
+  left: 148px;
+  color: #000000;
+  font-size: 96px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-2 {
+  top: 50px;
+  left: 148px;
+  color: #979797;
+  font-size: 24px;
+  text-decoration: underline;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .p {
+  width: 572px;
+  top: 260px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-3 {
+  width: 572px;
+  top: 606px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  width: 1005px;
+  top: 1060px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-5 {
+  width: 1005px;
+  top: 1262px;
+  left: 768px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-6 {
+  width: 1625px;
+  top: 1599px;
+  left: 148px;
+  color: #000000;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Anonymous Pro", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .image {
+  position: absolute;
+  width: 409px;
+  height: 434px;
+  top: 619px;
+  left: 1364px;
+  object-fit: cover;
+}
+
+.frame .group {
+  position: absolute;
+  width: 585px;
+  height: 1317px;
+  top: 261px;
+  left: 148px;
+  object-fit: cover;
+}
+
+.frame .mask-group {
+  position: absolute;
+  width: 409px;
+  height: 336px;
+  top: 261px;
+  left: 1364px;
+}
